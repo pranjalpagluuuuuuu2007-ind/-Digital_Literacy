@@ -1,0 +1,17 @@
+Case Study: The UPI "Receive Money" Trap
+What it is:
+UPI scams, particularly the QR code trick, are becoming incredibly common on campus. The scary part is how simple it is: fraudsters trick you into scanning a QR code by making it look like you’re about to receive a payment. In reality, the moment you enter your UPI PIN, you aren't receiving anything—you’re authorizing a withdrawal. Because UPI is instantaneous, once that PIN is entered, the money is gone before you even realize what happened.
+
+How it typically happens:
+It usually starts with something innocent, like selling an old textbook or a cycle on OLX or Facebook Marketplace. A "buyer" messages you, acting super interested and in a huge rush to close the deal. To make it seem convenient, they’ll send a QR code over WhatsApp and say, “Hey, just scan this to claim the advance payment.”
+
+The seller, just wanting to get the sale over with, scans the code and enters their PIN, expecting to see their balance go up. Instead, they get a notification that their account has been debited. It’s a gut-wrenching feeling of panic the second you realize you’ve been duped.
+
+Who is usually targeted:
+Scammers specifically target students and first-time online sellers. They rely on our generation's comfort with fast technology and our desire for a "hassle-free" transaction. They use urgency to stop you from thinking twice.
+
+The Consequences:
+The most obvious hit is the financial loss; since you authorized the transaction with a PIN, banks find it nearly impossible to reverse the charge. Beyond the money, there’s a real emotional toll—feeling embarrassed or anxious about being "tricked." Ultimately, it ruins the trust we have in digital tools that are supposed to make our lives easier.
+
+The Takeaway:
+The golden rule of UPI is: You never, ever need to enter your PIN to receive money. If someone asks you to "scan and enter PIN" to get paid, it is 100% a scam. Stay skeptical, especially when someone is rushing you.

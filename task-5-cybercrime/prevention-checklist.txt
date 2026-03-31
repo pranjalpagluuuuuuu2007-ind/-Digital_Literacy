@@ -1,0 +1,24 @@
+🛡️ Stay Safe Online: A Student’s Guide to Digital Security
+
+The Golden UPI Rule: Seriously—never, ever enter your UPI PIN just to receive money. If someone tells you to type it to get paid, it’s a scam, no exceptions.
+
+QR Code Caution: Don’t scan QR codes sent by strangers on WhatsApp, OLX, or social media. If you didn’t generate it yourself, don’t touch it—it’s usually a trick to empty your account.
+
+Level Up Your Passwords: Stop reusing the same password everywhere. Make strong, unique passwords for your university portal, email, and other key accounts. Think of it as your first line of defense.
+
+Lock it with 2FA: Turn on Two-Factor Authentication (2FA) for Google, Instagram, LinkedIn—anywhere you can. That extra approval step on your phone makes it much harder for hackers to sneak in.
+
+Double-Check the URL: Before typing login info, glance at the address bar. Make sure it starts with https:// and that the spelling is correct. One letter off can mean a fake site.
+
+Skip Public Wi-Fi for Banking: Campus or cafe Wi-Fi is great for browsing, but don’t log into banking or UPI apps over it. Use mobile data for anything involving money.
+
+Clean Up App Permissions: Check which apps can access your camera or gallery. If a calculator app suddenly wants access to your photos—revoke it. Seriously.
+
+Ignore “Too Good to Be True” Links: “High-Paying Job” or “Free iPhone” messages? Always scams. If you didn’t apply or enter a contest, delete the message immediately.
+
+🚨 If you do get scammed, act fast:
+
+Report it: Go to the National Cyber Crime Portal.
+Call for help: Dial 1930—especially for UPI or banking fraud.
+
+Pro-Tip: Just pausing for a second before you click or scan can save you a world of trouble. Stay alert, think twice, and keep your digital life safe!
