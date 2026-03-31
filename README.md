@@ -16,7 +16,7 @@ This repository contains my work for the Digital Literacy Evaluated Course Proje
 ## 📊 Module 3: Collaboration & Data
 HackerRank: Completed foundational Python challenges (1st Star earned).
 Digital Literacy Quiz: Created using Google Forms. 
-  * [Click here to view the Quiz]([PASTE_YOUR_GOOGLE_FORM_LINK_HERE](https://docs.google.com/forms/d/e/1FAIpQLScIlTBvPXSWgS9m7zgqUdcyfLoQRqtbeDC_qeBrWwtfZvmeTg/viewform))
+  * [Click here to view the Quiz]((https://docs.google.com/forms/d/e/1FAIpQLScIlTBvPXSWgS9m7zgqUdcyfLoQRqtbeDC_qeBrWwtfZvmeTg/viewform))
 
 ## 🛡️ Module 5: Cybercrime Awareness
 Research focused on **UPI QR Code Fraud**. 
